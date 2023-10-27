@@ -7,6 +7,9 @@
   ，最後使用NodeRED快速完成物聯網的視覺化應用
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maloyang/icshop_2023_rpi_iot/)
+
+
 課程表：
 ```
  08:50-09:00 報到
